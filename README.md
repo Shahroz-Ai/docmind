@@ -1,5 +1,5 @@
 # 📄 DocMind - AI Document Q&A
-
+🔗 **Live demo:** https://docmind-shahroz.streamlit.app
 > Upload a PDF, ask questions, and get answers with page-level sources. 🔍
 
 DocMind is a **RAG (Retrieval-Augmented Generation)** app. It answers only
